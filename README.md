@@ -1,4 +1,4 @@
-Hello, I'm Shaktisinh Raolji ! 👋
+Hello, I'm Shaktisinh Raolji ! 
 
  🚀 About me :-
  
