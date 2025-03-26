@@ -26,7 +26,6 @@ A web application designed to connect farmers and consumers, allowing farmers to
 ## 🌱 Learning Goals  
 - Advanced Web Programming  
 - Artificial Intelligence & Data Analysis  
-- Software Engineering Principles  
 
 ---
 
