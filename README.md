@@ -1,4 +1,4 @@
-<h1 align="center">I'm Shaktisinh Raolji 👋</h1>
+<h1 align="center">Hi there, I'm Shaktisinh Raolji 👋</h1>
 
 <p align="center">
   🎓 IT Engineering Student at <strong>Gujarat Technological University</strong> <br>
