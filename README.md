@@ -1,90 +1,95 @@
-<h1 align="center">Hi 👋, I'm Shaktisinh Raolji</h1>
-<h3 align="center">Full Stack Developer | Backend Enthusiast | IT Engineering Student</h3>
-
+<h1 align="center">Shaktisinh Raolji</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+.NET+%26+Azure;Angular+Learner;Backend+Focused+Engineer" />
+  Full Stack Developer | Backend-Focused Engineer | IT Engineering Student
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 IT Engineering Student at **Gujarat Technological University**
-- 💼 Currently Interning at **Rishabh Software, Vadodara**
-- 📚 Currently Learning:
-  - **.NET**
-  - **Microsoft Azure**
-  - **Angular**
-- 🚀 Passionate about building scalable backend systems
-- 🎯 Goal: Becoming a strong Full Stack Developer with deep backend expertise
+I am an IT Engineering student with a strong interest in backend systems and full stack development.  
+Currently interning at **Rishabh Software, Vadodara**, where I am learning and working with:
 
----
+- .NET
+- Angular
+- Microsoft Azure
 
-## 🛠️ Tech Stack
+I enjoy designing scalable systems, building clean APIs, and solving real-world problems through structured and maintainable code.
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+My long-term goal is to become a backend-strong full stack engineer capable of building production-ready applications.
 
 ---
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+## 🛠 Technical Skills
+
+### Languages
+- JavaScript
+- Java
+- Python
+- C
+
+### Frontend Development
+- HTML
+- CSS
+- React.js
+- Angular (Learning)
+
+### Backend Development
+- Node.js
+- Express.js
+- .NET (Learning)
+- RESTful API Development
+
+### Database
+- MongoDB
+- SQL
+
+### Cloud & Tools
+- Microsoft Azure (Learning)
+- Git
+- GitHub
+- Postman
 
 ---
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-02569B?style=flat&logo=mysql&logoColor=white)
+## 🚀 Selected Projects
+
+### TrashBid
+A real-time waste bidding platform built using MERN stack.
+- Secure authentication system
+- Role-based access control
+- Real-time bidding logic
+- RESTful backend architecture
 
 ---
 
-### ☁️ Cloud & Tools
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### ♻️ TrashBid
-- Real-time bidding system
-- Secure authentication
-- MERN-based architecture
-
-### 🏡 Wanderlust
-- Airbnb-inspired MERN application
-- MVC structure
+### Wanderlust
+A full-stack MERN application inspired by Airbnb.
+- MVC architecture
 - Authentication & Authorization
-- RESTful APIs
+- CRUD operations
+- Scalable backend structure
 
-### ⛅ Weather Forecasting App
-- React-based weather app
-- API integration
+---
+
+### Weather Forecasting App
+A React-based application providing real-time weather updates.
+- External API integration
 - Dynamic data rendering
+- Clean and responsive UI
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakti0301&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakti0301&theme=tokyonight" />
-</p>
+- Strengthening backend architecture concepts
+- Learning production-level .NET development
+- Understanding cloud deployment with Azure
+- Improving system design fundamentals
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/shaktisinh-raolji/
-- 📧 Em
+LinkedIn: https://www.linkedin.com/in/shaktisinh-raolji/  
+Email: shaktiraolji@gmail.com
