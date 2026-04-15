@@ -1,95 +1,41 @@
 <h1 align="center">Shaktisinh Raolji</h1>
+
 <p align="center">
-  Full Stack Developer | Backend-Focused Engineer | IT Engineering Student
+  Backend-focused full stack developer · IT Engineering student<br/>
+  Trainee @ <strong>Rishabh Software, Vadodara</strong> · Working with .NET, Angular & Azure
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaktisinh-raolji/">LinkedIn</a> ·
+  <a href="mailto:shaktiraolji@gmail.com">shaktiraolji@gmail.com</a>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🛠 Tech Stack
 
-I am an IT Engineering student with a strong interest in backend systems and full stack development.  
-Currently interning at **Rishabh Software, Vadodara**, where I am learning and working with:
-
-- .NET
-- Angular
-- Microsoft Azure
-
-I enjoy designing scalable systems, building clean APIs, and solving real-world problems through structured and maintainable code.
-
-My long-term goal is to become a backend-strong full stack engineer capable of building production-ready applications.
+| Layer | Technologies |
+|---|---|
+| **Languages** | JavaScript · Java · Python · C |
+| **Frontend** | React · Angular · HTML · CSS |
+| **Backend** | Node.js · Express · .NET · REST APIs |
+| **Database** | MongoDB · SQL |
+| **Tools** | Git · Postman · Azure |
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Projects
 
-### Languages
-- JavaScript
-- Java
-- Python
-- C
-
-### Frontend Development
-- HTML
-- CSS
-- React.js
-- Angular (Learning)
-
-### Backend Development
-- Node.js
-- Express.js
-- .NET (Learning)
-- RESTful API Development
-
-### Database
-- MongoDB
-- SQL
-
-### Cloud & Tools
-- Microsoft Azure (Learning)
-- Git
-- GitHub
-- Postman
+- **[TrashBid](#)** — Real-time waste bidding platform
+- **[Wanderlust](#)** — Airbnb-inspired full-stack MERN app
+- **[Weather App](#)** — React + REST API weather dashboard
 
 ---
 
-## 🚀 Selected Projects
+## 📌 Currently Learning
 
-### TrashBid
-A real-time waste bidding platform built using MERN stack.
-- Secure authentication system
-- Role-based access control
-- Real-time bidding logic
-- RESTful backend architecture
+`.NET` &nbsp; `System Design` &nbsp; `Microsoft Azure Services`
 
 ---
 
-### Wanderlust
-A full-stack MERN application inspired by Airbnb.
-- MVC architecture
-- Authentication & Authorization
-- CRUD operations
-- Scalable backend structure
-
----
-
-### Weather Forecasting App
-A React-based application providing real-time weather updates.
-- External API integration
-- Dynamic data rendering
-- Clean and responsive UI
-
----
-
-## 🎯 Current Focus
-
-- Strengthening backend architecture concepts
-- Learning production-level .NET development
-- Understanding cloud deployment with Azure
-- Improving system design fundamentals
-
----
-
-## 📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/shaktisinh-raolji/  
-Email: shaktiraolji@gmail.com
+*Always building, always learning.*
