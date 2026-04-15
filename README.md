@@ -34,7 +34,7 @@
 
 ## 📌 Currently Learning
 
-`.NET` &nbsp; `System Design` &nbsp; `Microsoft Azure Services`
+`.NET` &nbsp; `Angular` &nbsp; `System Design` &nbsp; `Microsoft Azure Services`
 
 ---
 
