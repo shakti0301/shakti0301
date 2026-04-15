@@ -16,11 +16,11 @@
 
 | Layer | Technologies |
 |---|---|
-| **Languages** | JavaScript · Java · Python · C |
-| **Frontend** | React · Angular · HTML · CSS |
+| **Languages** | JavaScript · Java · Python · C · C# · TypeScript |
+| **Frontend** | React · Angular |
 | **Backend** | Node.js · Express · .NET · REST APIs |
-| **Database** | MongoDB · SQL |
-| **Tools** | Git · Postman · Azure |
+| **Database** | MongoDB · MSSQL |
+| **Tools** | Git · GitHub · Postman · Visual Studio · VS Code |
 
 ---
 
