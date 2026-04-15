@@ -16,7 +16,7 @@
 
 | Layer | Technologies |
 |---|---|
-| **Languages** | JavaScript · Java · Python · C · C# · TypeScript |
+| **Languages** | C# · TypeScript · JavaScript · Java · Python · C |
 | **Frontend** | React · Angular |
 | **Backend** | Node.js · Express · .NET · REST APIs |
 | **Database** | MongoDB · MSSQL |
